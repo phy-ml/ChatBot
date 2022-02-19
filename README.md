@@ -5,4 +5,6 @@ Imagine that you’re working for an airline. Your task is to reduce their suppo
 
 The product team is asking you to help them build that tool and to estimate the workload reduction. Further, a process should be mapped out to ensure the bot’s accuracy over time. What would your advice be?
 
+## Developed Bot 
+
 ![image](https://user-images.githubusercontent.com/86639650/154810713-a34a7ade-102e-48cd-b423-3675397be970.png)
